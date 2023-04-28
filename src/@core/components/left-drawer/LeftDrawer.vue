@@ -20,7 +20,7 @@
         active-color="primary"
         prepend-icon="$mdiHomeOutline"
         title="Generate XML"
-        to="/generator"
+        to="/backend"
       />
     </VList>
   </VNavigationDrawer>
