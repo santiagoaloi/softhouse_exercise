@@ -13,17 +13,6 @@ let people = []
 
 // Split the input file into an array of lines
 let input = `
-
-
-P|firstName|lastName
-T|mobileNumber|landLineNumber
-A|street|city|zip
-F|name|birthYear
-
-P can be followed by T, A and F
-F can be followed by T and A
-
-
 P|Elof|Sundin
 T|073-101801|018-101801
 A|S:t Johannesgatan 16|Uppsala|75330
