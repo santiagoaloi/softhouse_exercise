@@ -2,7 +2,7 @@ export default {
   dark: {
     dark: true,
     colors: {
-      primary: '#0062f0',
+      primary: '#819c9f',
       surface: '#293046',
       error: '#ff4081',
       secondary: '#d0d2d6',

@@ -2,13 +2,13 @@ export default {
   light: {
     dark: false,
     colors: {
-      primary: '#0062f0',
+      primary: '#819c9f',
       surface: '#fff',
       error: '#ff4081',
       secondary: '#0062f0',
       background: '#f0f2f5',
 
-      'appbar-background': '#0062f0',
+      'appbar-background': '#eff3f3',
       drawer: '#fff',
 
       'inner-card': '#fbfbfb',

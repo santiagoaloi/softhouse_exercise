@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="public/company_logos/logo.svg" alt="Company logo">
+    <img width="280" src="public/company_logos/logo.png" alt="Company logo">
   </a>
 </p>
 
-# <span style="color: #0062f0;">  VueJS 3 / Vuetify 3 / Tailwind 3 </span>
+# <span style="color: #dc823d;"> VueJS 3 / Vuetify 3 / Tailwind 3 </span>
 
 ## Cool features ✨
 
@@ -22,7 +22,6 @@
 - Pinia Persistence functionality
 - Auto-import components
 - Custom fonts
-
 
 ## Git commit specification reference
 
