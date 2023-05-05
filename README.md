@@ -44,10 +44,10 @@
 ```bash
 
 # clone
-git clone https://github.com/santiagoaloi/simplesign-refactor.git
+git clone https://github.com/santiagoaloi/softhouse_exercise.git
 
 # enter the project directory
-cd simplesign-refactor
+cd softhouse_exercise
 
 # install dependencies
 yarn install
